@@ -1,0 +1,13 @@
+.lista-vagas {
+    display: flex;
+    flex-direction: row;
+
+    .card {
+        margin: 5px 10px;
+        min-height: 400px !important;
+        
+        img {
+            max-height: 190px;
+        }
+    }
+}

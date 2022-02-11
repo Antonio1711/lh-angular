@@ -1,0 +1,13 @@
+.nav {
+    justify-content: center;
+    background-color: rgba(0,0,0,.03);;
+    
+    .nav-link {
+        color: #000;
+
+        &:hover {
+            color: rgb(167, 155, 155);
+            transition: .5s;
+        }
+    }
+}
